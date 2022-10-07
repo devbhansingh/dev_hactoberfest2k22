@@ -1,5 +1,5 @@
-# 🎃 🎯   HacktoberFest 2021  🎃🎯 
-# Make your first Pull Request and earn a free T-shirt 👕👕 from GitHub!
+# 🎃 🎯   HacktoberFest 2022  🎃🎯 
+# Make your first Pull Request and earn a free T-shirt 👕 from GitHub!
 
 ## All valid PRs will be merged or suitable tags like hacktober-accepted will be given 
 
@@ -29,7 +29,7 @@ Here are 3 quick and painless ways to contribute to this project:
 4) Wait until your pull request is merged
 ## Enjoy , You have made it
 
-## Getting started
+## Getting started :rocket:
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
